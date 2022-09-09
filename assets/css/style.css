@@ -17,8 +17,9 @@
 @media screen and (max-width:767px){
     body{
         background-image: url(../images/Barman.jpg);
-        background-size: contain;
+        background-size: cover;
         background-repeat: no-repeat;
+        background-attachment: fixed;
     }
 
     /* Header */
